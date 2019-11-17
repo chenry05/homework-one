@@ -1,6 +1,7 @@
 div.pagewidth {
-    width: 680px;
-    align-content: center;
+    max-width: 680px;
+    margin: auto;
+    align-items: center;
 }
 
 
@@ -13,7 +14,20 @@ nav ul li {
     list-style-type: none;
     width: 65px;
     float: right;
-    color: gray;
+   }
+
+li {
+    color: #777777;
+}
+
+.floating-box {
+    float: left;
+    width: 150px;
+    height: 30px;
+    color: #ffffff;
+    background-color: #4aaaa5;
+    text-align: center;
+    padding: 10px 0;
 }
 
 h1 {
@@ -23,7 +37,11 @@ h1 {
 
 img {
     float: left;
-    text-align: right;
+    
+  }
+
+  p {
+      color: #777777;
   }
 
 .footer {
