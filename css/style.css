@@ -1,0 +1,38 @@
+div.pagewidth {
+    width: 680px;
+    align-content: center;
+}
+
+
+nav {
+    background-color: white;
+    height: 100 px;
+}
+
+nav ul li {
+    list-style-type: none;
+    width: 65px;
+    float: right;
+    color: gray;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+}
+
+img {
+    float: left;
+    text-align: right;
+  }
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:gray;
+    border-top: 8px solid #4aaaa5;
+    color:black;
+    text-align: center;
+    }
