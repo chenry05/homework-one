@@ -27,7 +27,8 @@ li {
     color: #ffffff;
     background-color: #4aaaa5;
     text-align: center;
-    padding: 10px 0;
+    padding: 12px 0;
+    t
 }
 
 h1 {
@@ -37,11 +38,17 @@ h1 {
 
 img {
     float: left;
+    size: 150px;
+    padding: 5px;
     
   }
 
   p {
       color: #777777;
+  }
+
+  .textcolor {
+      color: #777777
   }
 
 .footer {
